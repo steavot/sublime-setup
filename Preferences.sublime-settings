@@ -1,11 +1,15 @@
 {
-  "ignored_packages":
-  [
+	"ensure_newline_at_eof_on_save": false,
+	"ignored_packages":
+	[
 	],
-  "trim_trailing_white_space_on_save": true,
-  "ensure_newline_at_eof_on_save": false,
-  "rulers":[79],
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "vintage_start_in_command_mode": true,
+	"rulers":
+	[
+		79
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_lines.force_mode": true,
+	"vintage_start_in_command_mode": true
 }

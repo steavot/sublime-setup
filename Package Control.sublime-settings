@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Io Language",
 		"Package Control",
 		"VintageLines"
 	]
